@@ -14,7 +14,7 @@ List of skin diseases identified by this project includes: *Eczema*, *Melanoma*,
 ## Installation
 **1\. Clone the repository:**
 ```bash
-git clone 
+git clone https://github.com/aryanpriyanshu/Skin-Disease-Detector.git
 cd Skin-Disease-Detection
 ```
 **2\. Install the required packages:**
